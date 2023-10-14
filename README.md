@@ -9,6 +9,7 @@ Gonna learn some kool stuff!
 - git pull
 - git push
 - git clone
+- git push
 
 ## Kool Stuff
 
