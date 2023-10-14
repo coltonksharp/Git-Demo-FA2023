@@ -1,6 +1,6 @@
 # Git Demo: Colton Sharp
 
-Actually learning Git!
+Actually learning Git!!!!!!!!!
 
 Gonna learn some kool stuff!
 
@@ -9,3 +9,8 @@ Gonna learn some kool stuff!
 - git pull
 - git push
 - git clone
+- git push
+
+## Kool Stuff
+
+- learning branching
