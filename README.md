@@ -4,7 +4,7 @@ Actually learning Git!
 
 Gonna learn some kool stuff!
 
-# Topics
+## Topics
 
 - git pull
 - git push
